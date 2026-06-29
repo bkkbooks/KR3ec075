@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3ec075/v1
+canonical_location: https://kanripo.org/bkk/KR3ec075/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 香要抄
+  identifiers:
+    krp: KR3ec075
+  tags:
+    kr-categories: KR3ec
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec075.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3ec075_001.yaml
+    hash: sha256:6e5998f5b0cd13b9beb82f77c63d80e0020d270608bc5859f2ccda42c5634a8a
+table_of_contents: []
+hash: sha256:74807cc7e57e3d3c9d0c5bfce02f43bffc7d602f7a19197a76b36bd34bdddd88
